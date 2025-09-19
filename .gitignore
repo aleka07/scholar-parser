@@ -1,2 +1,6 @@
 outdated_output/
 venv/
+.venv/
+CLAUDE.md
+kinda_new/
+__pycache__/
